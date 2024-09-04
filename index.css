@@ -16,5 +16,6 @@ body{
     background-image: url(./imagens/bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100vh;
 }
 
